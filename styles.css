@@ -1,0 +1,109 @@
+  
+body{
+    background-color:rgb(53, 53, 53);
+    font-family: Arial, Helvetica, sans-serif;
+    margin:  0;
+}
+.container{
+    background-color: black;    
+    width: 1000px;
+    height: 948px;
+    float: left;
+    margin-left: 500px;
+    margin-right: 100px;
+    margin-bottom: 0;
+}
+.post{
+    background-color: white;
+    width: 567px;
+    height: 750px;
+    margin: 100px 100px 0px 200px;
+
+}
+.encabezado{
+    /*border: 1px solid black;*/
+    float: left;
+    height: 90px;
+    width: 568px;
+    
+}
+.logo{
+    /*border: 1px solid black;*/
+    float: left;
+    width: 40px;
+    height: 50px;
+    margin: 15px 5px 15px 15px;
+    font-size: 50px;
+
+}
+.usuario{
+    /*border: 1px solid black;*/
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin: 15px 5px 15px 0px;
+    font-size: 50px;
+    
+}
+#app{
+    font-weight: bold;
+    font-size: 18px;
+    margin: 0px;
+}
+#user{    
+    font-size: 18px;
+
+    margin: 0px 0px 5px 0px;
+    
+}
+.menu{
+    /*border: 1px solid black;*/
+    float: right;    
+    margin: 5px;
+    font-size: 40px;
+    margin: 15px;
+}
+.cuerpo{
+    /*border: 1px solid green;*/
+    height: 424px;
+    width: 567px;
+    float: left;
+}
+
+.pie{
+    /*background-color: purple;*/
+    float: left;    
+    height : 235px;
+}
+.iconos{
+    
+   width: 535px;
+   height: 60px;
+   float: left;
+   font-size: 48px;
+   margin: 15px;
+   
+   /*background-color: gold;*/
+
+}
+#bookmark{
+    float: right;
+    margin-right: 15px;
+}
+.reacciones{
+    
+   width: 535px;
+   height: 30px;
+    /*background-color:red;*/
+    float: left;
+    margin: 15px;
+    margin-top: 0px;
+}
+.descripcion{
+    width: 535px;
+    height: 90px;
+    /*background-color: seagreen;*/
+    float: left;
+    margin: 15px;
+    margin-top: 0px;
+}
